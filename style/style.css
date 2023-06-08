@@ -155,11 +155,32 @@ header nav {
 
 
 
+@media only screen and (max-width: 600px) {
+    .emts-sub-menue-button {
+        padding: 5px;
+        margin: 0%;
+        font-size: small;
+    }
+    .sub-mnu {
+        padding: 0%;
+        margin: 0%;
+        height: 50px;
+    }
 
+  }
 
+  .sub-menu-sec {
+    background-color: rgb(236, 236, 236);
+    width: 65%;
+    margin: auto;
+  }
+.emts-sub-menue-button {
+    padding: 30px;
+}
 
-
-
+.emenities-aco {
+    padding-top: 200px;
+}
 
 .icon-img {
     width: 50px;
